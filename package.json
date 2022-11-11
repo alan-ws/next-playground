@@ -15,5 +15,9 @@
   "volta": {
     "node": "19.0.1",
     "yarn": "3.2.4"
+  },
+  "devDependencies": {
+    "eslint": "8.27.0",
+    "eslint-config-next": "13.0.3"
   }
 }
